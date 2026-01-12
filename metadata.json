@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Citizen Services & Digital Benefits Platform (CSDP)",
+  "description": "A production-style government welfare platform for learning security testing and business logic flows, featuring intentional OWASP vulnerabilities.",
+  "requestFramePermissions": []
+}
